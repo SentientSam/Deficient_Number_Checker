@@ -7,7 +7,7 @@ using namespace std; // For ease of use, not necessary if you are willing to put
 int main() // Beginning of main function
 {
 int num; // Setting number which will be the input
-int sum = 0; // The sum variable will be used to add up the facotrs (divisors)
+int sum = 0; // The sum variable will be used to add up the factors (divisors)
 do // Do-while is saying that while the num variable is greater than 0, re-loop
 {
   cout << "Please enter a number (Press 0 to exit): " << endl; // Prompting user input
